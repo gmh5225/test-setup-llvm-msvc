@@ -7,3 +7,5 @@ jobs:
     runs-on: windows-latest
     steps:
       - uses: NewWorldComingSoon/setup-llvm-msvc@main
+        with:
+            version: latest
