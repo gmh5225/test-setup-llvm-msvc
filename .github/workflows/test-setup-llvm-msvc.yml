@@ -9,3 +9,4 @@ jobs:
       - uses: NewWorldComingSoon/setup-llvm-msvc@main
         with:
             version: llvm-msvc-build-v2.7
+            path: $GITHUB_WORKSPACE
