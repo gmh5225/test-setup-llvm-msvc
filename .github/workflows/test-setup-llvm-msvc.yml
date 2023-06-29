@@ -8,4 +8,4 @@ jobs:
     steps:
       - uses: NewWorldComingSoon/setup-llvm-msvc@main
         with:
-            version: latest
+            version: ’latest‘
