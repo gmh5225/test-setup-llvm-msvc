@@ -6,4 +6,4 @@ jobs:
   build:
     runs-on: windows-latest
     steps:
-      - uses: backengineering/setup-llvm-msvc@main
+      - uses: backengineering/setup-llvm-msvc@v5
